@@ -1,1 +1,3 @@
 welcome to new programming language
+
+"hello user"
